@@ -1,0 +1,36 @@
+
+.Line{
+    width: 20VW;  
+    background: $green-export;
+    border-style: solid; 
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+
+    
+}
+
+.Line-1{
+    background: $blue-export;
+font-weight: bold;
+border-style: groove; 
+border-color: chartreuse;
+
+}
+
+.result{
+    height: 7vh;
+    text-align: right;
+
+
+}
+.buttons{
+    height: 7vh;
+    border-style: dotted;    
+    width:100%
+}
+.line-6__0{
+    width:200%
+
+}
